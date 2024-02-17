@@ -7,7 +7,7 @@
 ![image](https://github.com/MattTheCuber/CSIS-212/assets/32849887/21669dd6-40b6-4115-aa5f-350e130fcac3)
 ![image](https://github.com/MattTheCuber/CSIS-212/assets/32849887/e15ec1a1-eb5e-4978-a957-9b99fd67051e)
 
-## Program 1
+## Program 2
 ![image](https://github.com/MattTheCuber/CSIS-212/assets/32849887/f85e9c7c-75de-4790-a6e9-7f1c4f96fad2)
 ![image](https://github.com/MattTheCuber/CSIS-212/assets/32849887/ee1c2a2d-eb7e-47c7-ae68-33c335ad5287)
 ### Error Handling
